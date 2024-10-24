@@ -1,7 +1,3 @@
-Pour rendre ton projet plus professionnel et impactant sur GitHub, je te propose de reformuler le README et de renommer les fichiers de manière plus technique et axée sur les méthodes utilisées. Voici une version révisée :
-
-### Nouveau README
-
 # Satellite Image Classification with Random Forest and Bagging
 
 This project focuses on the pixel-level classification of satellite images using advanced machine learning techniques. Specifically, we implement a **Random Forest** model and improve its performance by incorporating **Bootstrap Aggregating (Bagging)** for remote sensing applications. The data used is from the **Sentinel-2** satellite, part of the **Copernicus program** by the European Space Agency.
